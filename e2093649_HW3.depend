@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1577391999 source:c:\users\hbd\desktop\hw3\e2093649_hw3\main.cpp
+	<iostream>
+	"BTreeNode.h"
+	"Student.h"
+
+1577392284 c:\users\hbd\desktop\hw3\e2093649_hw3\btreenode.h
+	"Student.h"
+
+1577193806 c:\users\hbd\desktop\hw3\e2093649_hw3\student.h
+	<string.h>
+
